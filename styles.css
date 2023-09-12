@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Assistant', sans-serif;;
+}
+
+.container{
+    display: flex;
+    padding: 0 20%;
+}
+
+aside{
+    width: 30%;
+    background-color: rgb(49, 49, 124);
+    padding: 5%;
+    color: white;
+}
+
+main{
+    width: 70%;
+   background-color: rgb(258, 238, 238);
+}
+
+.foto img{
+    border-radius: 50%;
+    width: 100%;
+    box-shadow: 0 0 10px white;
+    margin-bottom: 40px;
+}
+
+.flex-container{
+    display: flex;
+}
+
+.margin-title{
+    margin: 50px 0 20px 0;
+}
+
+.margin-icon{
+    margin-right: 10px;
+}
+
+
+.margin-row{
+    margin-bottom: 20px;
+}
